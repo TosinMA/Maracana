@@ -1,9 +1,26 @@
-# Unofittial Rio de Janeiro State University beamer theme
+# Maracana
 
-**BeamerUERJ - UERJ beamer theme** is an unofficial Rio de Janeiro beamer theme for presentations easy-to-run Matlab code to simulate the nonlinear dynamics of the Zika virus. The implementation follows an educational style, to make its use very intuitive. 
+**Maracana beamer theme** is an beamer theme for presentations, inspired in the Rio de Janeiro State University (UERJ) colors. 
 
-This is a friendly and open use beamer theme for professional presentations
+## Author
+
+Michel Tosin
+ 
+## Software History
+
+This beamer theme was created to be used in the prof. Americo Cunha Jr.'s research group meetings.
+
+## Citing Maracana
+
+@misc{Maracana:2021,
+   author       = {M. Tosin},
+   title        = {Maracana beamer theme},
+   year         = {2021},
+   publisher    = {GitHub},
+   journal      = {GitHub repository},
+   howpublished = {\url{https://github.com/TosinMA/Maracana}}
+}
 
 ## License
 
-**RandBar** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+**Maracana** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
