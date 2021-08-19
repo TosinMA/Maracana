@@ -12,7 +12,7 @@ This beamer theme was created to be used in the prof. Americo Cunha Jr.'s resear
 
 ## Citing Maracana
 
-@misc{Maracana:2021,
+@misc{Maracana:2021,\
    author       = {M. Tosin},
    title        = {Maracana beamer theme},
    year         = {2021},
