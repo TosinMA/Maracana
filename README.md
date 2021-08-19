@@ -1,4 +1,4 @@
-# Tosin beamer theme
+# Unofittial Rio de Janeiro State University beamer theme
 
 This is a friendly and open use beamer theme for professional presentations
 
