@@ -1,4 +1,4 @@
-<img src="logo/Maracana.pdf" width="40%">
+<img src="logo/Maracana.png" width="40%">
 
 **Maracana beamer theme** is an beamer theme for presentations, inspired in the Rio de Janeiro State University (UERJ) colors. 
 
