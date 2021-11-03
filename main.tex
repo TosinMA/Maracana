@@ -1,0 +1,83 @@
+% =================================================================
+% Maracana beamer theme
+%
+% main.tex
+%
+% This file is a example applying the Maracana beamer theme
+% 
+% Author:
+% Michel Tosin
+% michel.tosin@uerj.br
+
+% last update: Nov 03, 2021
+% =================================================================
+
+\documentclass{beamer}
+\usetheme{Maracana}
+
+% ----------------------------------------------------------
+% Text elements
+% ----------------------------------------------------------
+\logo{Uerj_CMYK_cor_cropped.pdf} % Institution logo
+
+\title[Short title]
+{Maracan\~{a} beamer theme}
+
+\author[M. Tosin]{Michel Tosin}
+
+\institute[UERJ]{Rio de Janeiro State University -- UERJ}
+
+\date{Event\\ Month Day, Year}
+% ----------------------------------------------------------
+
+% ==========================================================
+\begin{document}
+% ==========================================================
+
+% ----------------------------------------------------------
+% Cover
+% ----------------------------------------------------------
+\begin{frame}
+\titlepage
+\end{frame}
+% ----------------------------------------------------------
+
+% ----------------------------------------------------------
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+% ----------------------------------------------------------
+
+\section{Section 1}
+
+% ----------------------------------------------------------
+\begin{frame}{Frame 1}
+
+\begin{block}{Some box title}
+Some box content
+\end{block}
+
+\vspace{5mm}
+
+\begin{itemize}
+	\item An item
+	\item Another item
+		\begin{itemize}
+		\item Something
+		\begin{itemize}
+			\item Something else
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------------
+
+\section{Section 2}
+
+
+\section{Section 3}
+
+% ==========================================================
+\end{document}
+% ==========================================================
